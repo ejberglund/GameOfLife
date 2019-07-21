@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life (Java)/task/Game_of_Life_(Java)-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life (Java)/task/Game_of_Life_(Java)-task.iml" group="Game_of_Life__Java_/Game_of_Life_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life (Java)/task/Game_of_Life_(Java)-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life (Java)/task/Game_of_Life_(Java)-task_main.iml" group="Game_of_Life__Java_/Game_of_Life_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life (Java)/task/Game_of_Life_(Java)-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life (Java)/task/Game_of_Life_(Java)-task_test.iml" group="Game_of_Life__Java_/Game_of_Life_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Game_of_Life__Java_.iml" filepath="$PROJECT_DIR$/.idea/Game_of_Life__Java_.iml" group="Game_of_Life__Java_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Game_of_Life__Java_/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Game_of_Life__Java_/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Game_of_Life__Java_/util" />
+    </modules>
+  </component>
+</project>

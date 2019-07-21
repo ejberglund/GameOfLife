@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Get firsthand experience of creating a small inhabited universe and observe the many patterns in which this “life” can evolve. Generation by generation, watch the cells come and go, reacting to their environment, perishing from loneliness or finding comfort in company. In this project, you will write a simple “Game of Life”, a classic toy for programmers to entertain and educate themselves. Careful: might be hypnotizing!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/54&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Game of Life (Java)" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="294" />
+                <option name="stepId" value="5436" />
+                <option name="title" value="Let there be light" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="295" />
+                <option name="stepId" value="5437" />
+                <option name="title" value="Generations" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="296" />
+                <option name="stepId" value="5438" />
+                <option name="title" value="Life goes by" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="298" />
+                <option name="stepId" value="5440" />
+                <option name="title" value="Looking good!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="299" />
+                <option name="stepId" value="5441" />
+                <option name="title" value="Gamify it" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="12" />
+                      <option name="theoryId" value="1933" />
+                      <option name="title" value="Multi-dimensional array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="116" />
+                      <option name="theoryId" value="3495" />
+                      <option name="title" value="Instance methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="38" />
+                      <option name="theoryId" value="3534" />
+                      <option name="title" value="Static members" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="28" />
+                      <option name="theoryId" value="3589" />
+                      <option name="title" value="Access modifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="24" />
+                      <option name="theoryId" value="3599" />
+                      <option name="title" value="Getters and setters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="8" />
+                      <option name="theoryId" value="3583" />
+                      <option name="title" value="Inheritance" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="62" />
+                      <option name="theoryId" value="3600" />
+                      <option name="title" value="Basics of multithreading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="295" />
+                      <option name="theoryId" value="4875" />
+                      <option name="title" value="Threads as objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="294" />
+                      <option name="theoryId" value="4876" />
+                      <option name="title" value="Custom threads" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="72" />
+                      <option name="theoryId" value="3619" />
+                      <option name="title" value="Thread management" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="297" />
+                      <option name="theoryId" value="4882" />
+                      <option name="title" value="Exceptions in threads" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="296" />
+                      <option name="theoryId" value="4881" />
+                      <option name="title" value="Interruptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="298" />
+                      <option name="theoryId" value="4883" />
+                      <option name="title" value="States of a thread" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="352" />
+                      <option name="theoryId" value="5514" />
+                      <option name="title" value="The basic window in Swing" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="452" />
+                      <option name="theoryId" value="6295" />
+                      <option name="title" value="Swing components" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="37" />
+                      <option name="theoryId" value="3525" />
+                      <option name="title" value="Overloading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="120" />
+                      <option name="theoryId" value="3538" />
+                      <option name="title" value="Multiple constructors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="127" />
+                      <option name="theoryId" value="3588" />
+                      <option name="title" value="The keyword super" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="5" />
+                      <option name="theoryId" value="3572" />
+                      <option name="title" value="Hiding and overriding" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="491" />
+                      <option name="theoryId" value="6692" />
+                      <option name="title" value="Protected modifier" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="128" />
+                      <option name="theoryId" value="3585" />
+                      <option name="title" value="Referencing subclass objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="2" />
+                      <option name="theoryId" value="3587" />
+                      <option name="title" value="Polymorphism" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="122" />
+                      <option name="theoryId" value="3597" />
+                      <option name="title" value="Abstract class" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="124" />
+                      <option name="theoryId" value="3615" />
+                      <option name="title" value="Interface" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="75" />
+                      <option name="theoryId" value="3564" />
+                      <option name="title" value="Anonymous classes" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="167" />
+                      <option name="theoryId" value="3492" />
+                      <option name="title" value="Generic programming" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="48" />
+                      <option name="theoryId" value="3601" />
+                      <option name="title" value="Functional interfaces and lambda expressions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="177" />
+                      <option name="theoryId" value="3652" />
+                      <option name="title" value="Writing files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="6" />
+                      <option name="theoryId" value="3595" />
+                      <option name="title" value="Boxing &amp;&amp; unboxing" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Get firsthand experience of creating a small inhabited universe and observe the many patterns in which this “life” can evolve. Generation by generation, watch the cells come and go, reacting to their environment, perishing from loneliness or finding comfort in company. In this project, you will write a simple “Game of Life”, a classic toy for programmers to entertain and educate themselves. Careful: might be hypnotizing!" />
+              <option name="id" value="54" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/209960/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="title" value="Game of Life (Java)" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="2" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Game of Life (Java)" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;p&gt;&#10;&#10;&lt;/p&gt;&lt;p&gt;This not a game in the usual meaning of a game. The human player’s input just creates the initial state of the “universe.” After that, the game is completely deterministic, and one just observes the evolution of life forms, migration, and even socialization of primitive organisms.&lt;br&gt;&#10;&#10;&#10;&#10;&#10;&lt;/p&gt;&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Game of Life&lt;/a&gt; was described by John Conway in 1970. It came from a mathematical problem, and since 1970 it has attracted the interest of scientists in various fields: physics, biology, economics, and so on.&lt;br&gt;&#10;&#10;&#10;&#10;&#10;&lt;/p&gt;&lt;p&gt;The most amazing feature of this game is its simplicity, leading to many more complex patterns.&lt;/p&gt;&lt;p&gt;Who knows, maybe this game touches something fundamental in this world?&lt;/p&gt;&lt;p&gt;By completing this project, you will make an application with multithreading and a graphical user interface. Also, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;MVC&lt;/a&gt; pattern is very suitable for this application.&lt;/p&gt;&lt;p&gt;&#10;&#10;  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;In the first stage, you need to create a “map” of the universe in its first moment of existence ― the first generation.&lt;br&gt;&lt;/p&gt;The universe in this game looks like a grid in which each cell has one of two possible states: populated (alive) or not populated (dead).&lt;br&gt;Before the game starts, the player should define the state of each cell. To make the first state of the universe, we will use randomness. &lt;br&gt;&lt;br&gt;To move from the first cell to the last, use the nextBoolean() method of java.util.Random to define its state. Populate the cell as alive if nextBoolean returns true, and dead if false.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;p&gt;We’ll begin with the console version of the application and add GUI later.&lt;/p&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;The first program should output a square matrix NxN: there must be N lines with N characters in each line. If there is an alive cell, place the letter ‘O’, otherwise, whitespace.&lt;br&gt;&lt;br&gt;Input data is two numbers in one line. First is N (N&amp;gt;0): the size of the universe. The second is S: a number that you should use as the seed for your Random object.&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Output examples&lt;/b&gt;&lt;/h2&gt;The lines that start with &lt;code class=&quot;no-highlight&quot;&gt;&amp;gt;&lt;/code&gt; represent the user input.&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; 4 4&lt;br&gt;OOOO&lt;br&gt;O O &lt;br&gt;   O&lt;br&gt;OOO &lt;/code&gt;&lt;/pre&gt; &lt;br&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; 4 120&lt;br&gt;OO  &lt;br&gt;O  O&lt;br&gt; OO &lt;br&gt; O &lt;/code&gt;&lt;/pre&gt; &lt;br&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; 10 10&lt;br&gt;O    O  O &lt;br&gt; OOOO   O &lt;br&gt; O   OO O &lt;br&gt;OO OO  OO &lt;br&gt;   O      &lt;br&gt;OO OOOOOOO&lt;br&gt;OO O O  OO&lt;br&gt;    O O  O&lt;br&gt;OO       O&lt;br&gt;OOOO    O &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/54/stages/294/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5436" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Let there be light" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/life/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/Main.java" />
+                                <option name="text" value="package life;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/GameOfLifeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/GameOfLifeTest.java" />
+                                <option name="text" value="import life.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class GameOfLifeTest extends BaseStageTest {&#10;    public GameOfLifeTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;            new PredefinedIOTestCase(&#10;                &quot;4 4&quot;,&#10;                &quot;OOOO\n&quot; +&#10;                    &quot;O O \n&quot; +&#10;                    &quot;   O\n&quot; +&#10;                    &quot;OOO &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;4 120&quot;,&#10;                &quot;OO  \n&quot; +&#10;                    &quot;O  O\n&quot; +&#10;                    &quot; OO \n&quot; +&#10;                    &quot; O  &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;10 10&quot;,&#10;                &quot;O    O  O \n&quot; +&#10;                    &quot; OOOO   O \n&quot; +&#10;                    &quot; O   OO O \n&quot; +&#10;                    &quot;OO OO  OO \n&quot; +&#10;                    &quot;   O      \n&quot; +&#10;                    &quot;OO OOOOOOO\n&quot; +&#10;                    &quot;OO O O  OO\n&quot; +&#10;                    &quot;    O O  O\n&quot; +&#10;                    &quot;OO       O\n&quot; +&#10;                    &quot;OOOO    O &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;50 0&quot;,&#10;                &quot;OO OO O OO   OOOO O      O  O OO  O   OOOO OOOOOO \n&quot; +&#10;                    &quot;O OOOO O  O OOO      O O O OOOOOOOO     O   O OOOO\n&quot; +&#10;                    &quot;  O OO O OO OOO O   O OOO OO    O OOOOOO   O      \n&quot; +&#10;                    &quot;O O OOOO   OOO     O OOO O OO O  OOOOOO  OO   O O \n&quot; +&#10;                    &quot;   OO    OOOOOO  O  O  O O  OO    O  O  O OOOOO O \n&quot; +&#10;                    &quot; OOOO O  OOOO OOO O  OO    OO OO OO  O  OO OO O O \n&quot; +&#10;                    &quot; O O  O         O  O OOOOO OOO   OOO OO O OO  O OO\n&quot; +&#10;                    &quot;  O  O OOO O   O OOOOO  O       OO  OOOOO    O OOO\n&quot; +&#10;                    &quot;   OO O O     OOO  O    OOO     O OOOOO  O OOOO  O\n&quot; +&#10;                    &quot;OOOOOOOO O O  OOO O  OO OO   OO      O   O  O    O\n&quot; +&#10;                    &quot; OOO O  OOO   O O O    OOO   OOO OOO       O O OOO\n&quot; +&#10;                    &quot;OO OO  O  O O  O OO   O OO OO OOOO O     O   O O O\n&quot; +&#10;                    &quot;OOO  OO  OO  OO    OO      OOO OO OOO    O   OO OO\n&quot; +&#10;                    &quot;O OO    OO O OO OO O   O  OOO    OO    OO  OO  OOO\n&quot; +&#10;                    &quot;O  O  O  O O OO   O  OOOO OOO         OOOOO O O OO\n&quot; +&#10;                    &quot;      OOOO  O  O OOOO  O OOOOOOO O  OO  O  OOO OOO\n&quot; +&#10;                    &quot;OOO O   OO  O O    OO OO OO  O O OO OO  OO OO    O\n&quot; +&#10;                    &quot;O OOO   OOOO    O  O  O      O   O O  O   OOOOO OO\n&quot; +&#10;                    &quot;   O OOO OO  O  OO  O  O  O  O  OOO O     OOO   OO\n&quot; +&#10;                    &quot;  OO OOOOO OOOOOOO  O         OO OO  OO      OOO  \n&quot; +&#10;                    &quot;  O   OOOOO  OO O OOO O O O     OO   O O  OO  OOO \n&quot; +&#10;                    &quot; O O    OOOOO OOOO OO   O  O O     O   O OOO O OO \n&quot; +&#10;                    &quot; OO  OO O    OO    O  OO  O OOOO O      O OOO OOO \n&quot; +&#10;                    &quot;OO OOOOOOO O    OO  O  O OO O OO O     OOOOOO  O O\n&quot; +&#10;                    &quot;   OO  OO OO   O  O  O  O OO  O  O  O  O O   OO  O\n&quot; +&#10;                    &quot;O  OO O  OO   OOO  OOOO  OO  OO OO  O   O OO    O \n&quot; +&#10;                    &quot;OO O OOO    OOOO     O     O  OOOOO  O     OOOO   \n&quot; +&#10;                    &quot;  O O OOO   OOO O  OOO O OOO   O     O OOOOO  OO O\n&quot; +&#10;                    &quot;  OOOO     OOOOOOOO    O O  OOO    O OOO O OOOO OO\n&quot; +&#10;                    &quot; O  OOOOO   OOO    OOOOOO OOOO   O O OOOOOOO     O\n&quot; +&#10;                    &quot;O  OO OO OO O  OOOOO    O OOO  OOO O   O  OOO OO O\n&quot; +&#10;                    &quot; OO OOO  OOO    O OOO OOO O OOO    O O  OO  O OO  \n&quot; +&#10;                    &quot;OO     O  OO OOO   OOOO    OOOO O O OOOO OO   O O \n&quot; +&#10;                    &quot;O OOOO O  OO   OO O  O    O     O   O   OO OOOOOO \n&quot; +&#10;                    &quot; OO O OOO    O  OOOO OOO    O O O     O   OO  OOO \n&quot; +&#10;                    &quot;O   O OOOOOOOO  O OO O   OOO  OOO  O   O   O O  O \n&quot; +&#10;                    &quot;O     OOO  O   O  OOOOOOO  OOOO OOO O OOOO    O  O\n&quot; +&#10;                    &quot;O          OO O  O  O  OO O    OO O  O    OOOOOOOO\n&quot; +&#10;                    &quot;O  OO O   OO   O       OO  OOOO OO OO OO  OOO OOOO\n&quot; +&#10;                    &quot; O    O OO O OO     O   O    OO OO O  OOOOOOOOO O \n&quot; +&#10;                    &quot; O     OOO    OO O     O   O     OOO OOO OOOOOO   \n&quot; +&#10;                    &quot;OOO OO O    O    O O  OOOO O O O O OO OOO OO O   O\n&quot; +&#10;                    &quot;OOOOO OO   OOOO  OO O OO OO  O   O O  O   OOO     \n&quot; +&#10;                    &quot;  OOO O    O     O     O    O  O  OO  OOO O  O O  \n&quot; +&#10;                    &quot; OOO O O OOOOOOOOOO O  O  OO      OOO O O O OO OOO\n&quot; +&#10;                    &quot;  OO    O  OO      OO   O OOO    OOO  OOO OOO   O \n&quot; +&#10;                    &quot;OOOO OO OO OO OOOOOO  OOOO  OOOOOOOOO OO     OO O \n&quot; +&#10;                    &quot;O OO  O  O O  O OOO    OOOO    OO OOOOOOO  OOO    \n&quot; +&#10;                    &quot; OOOOO O OO O  O  OO   O OOOO OO O OO OOOOOOOOO  O\n&quot; +&#10;                    &quot; O OOO OOO O  OO    O  O       OO O      OOO OO O &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;50 2018&quot;,&#10;                &quot; O  O    OOOO OOOO OOO O OO  O  O OO OOOO  OO O    \n&quot; +&#10;                    &quot;O   OO OOO OO  O O  O  O  OO OOOO  OO   O         \n&quot; +&#10;                    &quot;O   O O   OOOO O       O OOO  O       O    O O   O\n&quot; +&#10;                    &quot;OOO OOO  O O O   O O O    O OOOOO  O O  O O  O O  \n&quot; +&#10;                    &quot;      OO O  O O O O   O  O  O O O O    OO   O OOOO\n&quot; +&#10;                    &quot; OO O OOO O   O OOO O OO  OOO O   OOO OOO OOOO   O\n&quot; +&#10;                    &quot; OOO OOO OO  OOO O     OOO O  OOOO  O OO O  O OOO \n&quot; +&#10;                    &quot; O    O  OO  OOOO O O  O O    O  O O     OO      O\n&quot; +&#10;                    &quot;    OO OOOO    OOOO O OO  OO OOO  O  OOOO OOO OOOO\n&quot; +&#10;                    &quot;  OO OO OO O O    O O O    OOO  O   O O   OOOOOOOO\n&quot; +&#10;                    &quot;  O O   OOO     OO   OO    O  O O O   OO    O OOOO\n&quot; +&#10;                    &quot;  OOOOO OO     O O OO OO      O OO OOO O   OO O   \n&quot; +&#10;                    &quot; OOO O  OO  O OOO O OO  O OO O  O OO OO  OOO O  OO\n&quot; +&#10;                    &quot;O O O O  O OOO O  OO    O O O  OO    OO OO O      \n&quot; +&#10;                    &quot; O O   OOOOO O  O  O OO      O  OOO O  OO  OOOOOO \n&quot; +&#10;                    &quot;   O    O   O O   OOO O OO OOO OO     O O  O  OOOO\n&quot; +&#10;                    &quot;O    OO OO  O    OOOO  OO   O O  O OOO  OOOO     O\n&quot; +&#10;                    &quot;  O  OOO   O O  O  O O  OOOO   O OO    O OO  O  O \n&quot; +&#10;                    &quot;  O OOO OO  OOO    OOOOOOO  O  OOOOOO O O     OOOO\n&quot; +&#10;                    &quot; O  OO   OO OOOO OOO  OOOOOOO        O  O   OOO  O\n&quot; +&#10;                    &quot;OOOOO OOOO OO  O O O  O OO    O   O  OO OOO OO O  \n&quot; +&#10;                    &quot; O O O OO OO OOOOO  OO  OOO OOOOOO OO  OOO OO O   \n&quot; +&#10;                    &quot; OOO O  OO   O  OOOO  O OO     OOOO  O O  OO OOOO \n&quot; +&#10;                    &quot;OOOOO OOOO OOOOOOOO  O OOOOO    O   OOO OO OOOOOO \n&quot; +&#10;                    &quot;O   O O O  O      OO     OOOO    OOO   O  OOO   OO\n&quot; +&#10;                    &quot;    O    O  OO  O  O   OOOOO O O    O OOO   O   O \n&quot; +&#10;                    &quot; OO OOO O      OOOOO  OOOOO OO OO OOO  OOO O O    \n&quot; +&#10;                    &quot;O  OOOOOOO   O OO OO OOOO  OOOOO  O  OOOO  O OOO  \n&quot; +&#10;                    &quot;OOO    OO    OO OOOO OO   O O O OO  OOOO  OOO     \n&quot; +&#10;                    &quot;OO    O  OO  O O OOOO O O  OO OO O          OO  O \n&quot; +&#10;                    &quot;O  O OO O O    OO    OOO OO OO   OO  O  OO O OO OO\n&quot; +&#10;                    &quot;     OO     O OO    OOO   OO O OO OO    O O O OO  \n&quot; +&#10;                    &quot;O   OOO OO  O OO   O   OO     O OOOO  O OO OOO  O \n&quot; +&#10;                    &quot; OOOO     O O O   OO OOOO OOOO O O  O  O O  O OO  \n&quot; +&#10;                    &quot;OO OOOO O O  O    O  O OOO  OO  O O  OO  OO OOOOOO\n&quot; +&#10;                    &quot;OOOOOOO OO   O     O   OOOO    O   O   O O O OO   \n&quot; +&#10;                    &quot; OOOOOOOO  OO O     O OO O  O O  O O O  O  OO O  O\n&quot; +&#10;                    &quot;O  O OO OO OOOOO O OO OO   OOOOOO OOO OO       O  \n&quot; +&#10;                    &quot;OOO OO   O OOOO     O OO   O O  OOO O      O OO  O\n&quot; +&#10;                    &quot;O       O OOO O O  OOOO OO  O O  OOOOO  OOO O OOO \n&quot; +&#10;                    &quot;O O    O  O  O O O   O OO   OO OO  O OOOOOOOOO  OO\n&quot; +&#10;                    &quot; OO  OO   O     OO O OO  O   O  OOOOO  O     O  O \n&quot; +&#10;                    &quot;O  OOO OO   O  O  OOO OO O     O   O  O   O   O  O\n&quot; +&#10;                    &quot;O OOO OOO OO OO O OO OO O O O O O O   OOO OOO  OO \n&quot; +&#10;                    &quot; OO  O  O  O OOO O OOO   O  O  OO OOOOO OOO  OOO O\n&quot; +&#10;                    &quot; OO    OO  OO OOO    O  O  OO OO OOO O O OOO   O  \n&quot; +&#10;                    &quot;OOO OOOO OOO   OO OO   OOOO      O  O   OO O    OO\n&quot; +&#10;                    &quot; OO OO O  O  OO  O OOOO  OO O OOO  OOO O  O OOO  O\n&quot; +&#10;                    &quot;OOO OO   OOO OOOOO   OOOO O OOOO OO O  O   OO   O \n&quot; +&#10;                    &quot; O   OOOOOO  O   O OOO OOO O  OOO   OO   O  OO O  &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;50 -128&quot;,&#10;                &quot; OOOO     O    OO O  O   O   O OO O OOO  O    OOO \n&quot; +&#10;                    &quot; O O O O OOOOO  O O O OO OOOO OOO  OOO O    OOOO  \n&quot; +&#10;                    &quot;  OO O OO  O  O    OO    O O  O OO   O O    OOO  O\n&quot; +&#10;                    &quot;OO   OOOO   OO OO O O O   OOO O O O O OOOO OOO OOO\n&quot; +&#10;                    &quot;O O OO O  OO   O   O   O  OOOO    O  OO   O  O O O\n&quot; +&#10;                    &quot;OO OO   O OOOOOO OOO  O OO    OOO     OOO OO O  OO\n&quot; +&#10;                    &quot;  O   OOO   O O   O  OOO O O  O O  O OO OOOOOOO OO\n&quot; +&#10;                    &quot;  OO OOOOOO OO   OOO OOOOOOOOOOO OO  OO   OOOO O  \n&quot; +&#10;                    &quot;OOO OO OOO       O    O O   O O  OOO   O    O OOO \n&quot; +&#10;                    &quot;OOOOO O OO OO  O OOO  OO  OOOOOO O O O    OO O OOO\n&quot; +&#10;                    &quot;O OOO O O     OO  OO OOOO  OO OOO O   OO   OOOO OO\n&quot; +&#10;                    &quot;OO OOOO  OO OO  O      O O        O  OOOO O OOO   \n&quot; +&#10;                    &quot;OOOOOOOO  OO OOOO  O O O O  OO  O OOOO O OOO O OOO\n&quot; +&#10;                    &quot;O  OO  OO   O  OO  O OOO  O OOOOOOO   OO OOO   OOO\n&quot; +&#10;                    &quot; O O O O O  OOOOO OOO  OOOOOO OOOO   OOO  OO  OO O\n&quot; +&#10;                    &quot;OO O O OOOO    O O O  O O   OO   OO O OOO  OO   OO\n&quot; +&#10;                    &quot;OO   O  O    O       OOOO  OOO  OOO    OOO O  O  O\n&quot; +&#10;                    &quot;OO  O OOO OOOO   O O OOOOO  O O    O  OO  O  OOOO \n&quot; +&#10;                    &quot;O OO O OO OO O O    O  O O OO  O  O O      OOOO O \n&quot; +&#10;                    &quot;OOOO  OOOOOOOOOOOO OO OO O OO   OO O O OOO   O OO \n&quot; +&#10;                    &quot;   OO  OO O OOOOO OOO    O OO OO   OO  OO OO   O O\n&quot; +&#10;                    &quot; OOO  O    OOO OOOOOO   O    OOO OO    OOO O   O O\n&quot; +&#10;                    &quot;O O OOO  OO   OO O   OO  O OOOO  OO    O  OOO O   \n&quot; +&#10;                    &quot;   O O   O   OOOO  OO OO OO OOOO    O OOOO   OO   \n&quot; +&#10;                    &quot;O  OO O      OO   O O    O   OOOOO O O OO     OO O\n&quot; +&#10;                    &quot;O O  O O   O  O  O O OOO  O O  OOO    O OO O   O  \n&quot; +&#10;                    &quot;O  OOOO O O O     OOOOOO OOO OOO OO O OO   O  O O \n&quot; +&#10;                    &quot;OO OO  O   OOOOO O OOO OO  O   OO   O O O OOOOOOO \n&quot; +&#10;                    &quot;O O  O  OO  OOOO O  OOO O O OO     O O OOO  OO  O \n&quot; +&#10;                    &quot;OO   OO O  OOO OOO  O OO OOO    OO OO O O  O O  OO\n&quot; +&#10;                    &quot;O     OOOO O   O O OOOO OO  O OO    O O   OOO OO  \n&quot; +&#10;                    &quot; O OOOO O  OO  O   O  O   OOO OO   OO OO        O \n&quot; +&#10;                    &quot;OO   O  OOOO  OO OOO OO   O  O      O OO O   OOO O\n&quot; +&#10;                    &quot;OO O OO O O O O OO      O   OO  OO  OOOO O O O  O \n&quot; +&#10;                    &quot;OOOO  O     OO  O  O  OOOOO OO   O O  O O OOO  OO \n&quot; +&#10;                    &quot;OOO OOOOOOO  O O O O OO      OO OOOOOOOO O OO O  O\n&quot; +&#10;                    &quot;OO  O O  O O O OOOO OOOOO  OOO     OOO      OO  O \n&quot; +&#10;                    &quot; O      O OOOOO  O OO O O   O   O  OO OO OO OO  OO\n&quot; +&#10;                    &quot;O      O OO OO  OOOO OO O O   OOO      O     O    \n&quot; +&#10;                    &quot;O       OOOO O OO OO OO OO OO    OO OOO   O   OOO \n&quot; +&#10;                    &quot;OO O O    OOO   OOOOO O O OO OOOO O O    O   O   O\n&quot; +&#10;                    &quot; O OO O   O  OO  OOOO   O O OOO   O    OOOO O OO O\n&quot; +&#10;                    &quot;   O   O OOO OO O OOO   OOOO  OO   OOOO O O  OOO  \n&quot; +&#10;                    &quot;  O  OO    OOOOOOO O O  O OO  O   O OO OO   O     \n&quot; +&#10;                    &quot;OO O O  OOO O O     O   O    OOOO O OOO  OO O OOOO\n&quot; +&#10;                    &quot;O OOO    OOO  OO  OO   O   O  O OO OOO  OO OO  OO \n&quot; +&#10;                    &quot;OOOOOOOOO O    OOOO  O  O OO  OO   OO O OO OOOO OO\n&quot; +&#10;                    &quot;    OOO O OO O     O OOOO   OO OO  OOOO O O   O   \n&quot; +&#10;                    &quot; OOOOOOOOO OOOOOOO O     OOOO O O OOO OOOO O O OOO\n&quot; +&#10;                    &quot;   O OO O  OO  O OO OOO  OOO       O  O  O OO  O  &quot;&#10;            )&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561921502000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;p&gt;The progress of the game is evolution: one generation changes another. Each generation is fully determined by the previous generation. The future of each cell depends on its neighbours (adjacent cells). &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;236&quot; src=&quot;https://ucarecdn.com/f200bfdb-ba29-4ac4-b160-1f7010fdef80/&quot; width=&quot;237&quot;&gt;&lt;/p&gt;&lt;p&gt;As you can notice, each cell has eight neighbours. We consider the universe to be periodic: border cells also have eight neighbours. For example:&lt;br&gt;&lt;br&gt;If cell is right-border, its right (east) neighbour is leftmost cell in the same row.&lt;br&gt;If cell is bottom-border, its bottom (south) neighbour is topmost cell in the same column.&lt;br&gt;&lt;br&gt;Corner cells use both solutions.&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;300&quot; src=&quot;https://ucarecdn.com/f6ff63b1-ece2-454b-96fc-f4df385fe25a/&quot; width=&quot;621&quot;&gt;&lt;/p&gt;&lt;p&gt;&#10;&#10;&lt;/p&gt;&lt;p&gt;Evolution is controlled by two rules:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;An alive cell survives if has two or three alive neighbours; otherwise, it dies of boredom (&amp;lt;2) or overpopulation (&amp;gt;3)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;A dead cell is reborn if it has exactly three alive neighbours&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The program should apply these rules to each cell in order to compute the next generation.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;At this stage you should make several consecutive generations. For this you have to store the state of the universe in memory.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Use 2-dimensional arrays for this task. You need two arrays: one for the current generation and one for the next. Add these arrays to the program and implement the algorithm of getting the next generation.&lt;br&gt;&lt;br&gt;NOTE: it will be better to encapsulate the state of the universe and the generation algorithm in separate classes. You will understand why soon.&lt;br&gt;&#10;&#10;&#10;&#10;&#10;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&#10;&#10;&lt;/p&gt;&lt;p&gt;The input data is three numbers in one line. The first is N (N&amp;gt;0), the size of the universe; the second is S, a long, that you should use as seed for your Random object; the third is M (M≥0), the number of generations your program should create.&lt;br&gt;&lt;br&gt;Output data: a square matrix NxN: there must be N lines with N characters in each line. If there is an alive cell, place the letter ‘O’, otherwise, whitespace. The matrix should describe the generation after M steps from the beginning. So if M==8, you should find generation #9 (first is #1). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Output examples&lt;/h2&gt;&lt;p&gt;The lines that start with &lt;code class=&quot;no-highlight&quot;&gt;&amp;gt;&lt;/code&gt; represent the user input.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; 4 4 0&lt;br&gt;OOOO&lt;br&gt;O O &lt;br&gt;   O&lt;br&gt;OOO &lt;/code&gt;&lt;/pre&gt; &lt;br&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; 8 1 10&lt;br&gt; O  OO  &lt;br&gt;OO   OO &lt;br&gt;O     O &lt;br&gt;        &lt;br&gt;  O     &lt;br&gt;  O O   &lt;br&gt;     OO &lt;br&gt;O   OO O&lt;/code&gt;&lt;/pre&gt; &lt;br&gt;&lt;pre&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; 10 10 100&lt;br&gt;          &lt;br&gt;          &lt;br&gt;    O     &lt;br&gt;   O O    &lt;br&gt;    O     &lt;br&gt;          &lt;br&gt;          &lt;br&gt;          &lt;br&gt;          &lt;br&gt;          &lt;/code&gt;&lt;/pre&gt; &lt;br&gt;&lt;p&gt;&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/54/stages/295/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5437" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Generations" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/GameOfLifeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/GameOfLifeTest.java" />
+                                <option name="text" value="import life.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class GameOfLifeTest extends BaseStageTest {&#10;    public GameOfLifeTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;            new PredefinedIOTestCase(&#10;                &quot;4 4 0&quot;,&#10;                &quot;OOOO\n&quot; +&#10;                    &quot;O O \n&quot; +&#10;                    &quot;   O\n&quot; +&#10;                    &quot;OOO &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;8 1 10&quot;,&#10;                &quot; O  OO  \n&quot; +&#10;                    &quot;OO   OO \n&quot; +&#10;                    &quot;O     O \n&quot; +&#10;                    &quot;        \n&quot; +&#10;                    &quot;  O     \n&quot; +&#10;                    &quot;  O O   \n&quot; +&#10;                    &quot;     OO \n&quot; +&#10;                    &quot;O   OO O&quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;10 10 100&quot;,&#10;                &quot;          \n&quot; +&#10;                    &quot;          \n&quot; +&#10;                    &quot;    O     \n&quot; +&#10;                    &quot;   O O    \n&quot; +&#10;                    &quot;    O     \n&quot; +&#10;                    &quot;          \n&quot; +&#10;                    &quot;          \n&quot; +&#10;                    &quot;          \n&quot; +&#10;                    &quot;          \n&quot; +&#10;                    &quot;          &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;4 4 10&quot;,&#10;                &quot;    \n&quot; +&#10;                    &quot;    \n&quot; +&#10;                    &quot;    \n&quot; +&#10;                    &quot;    &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;32 -1 0&quot;,&#10;                &quot;   OOO  O O    OOOOOO O O     OO\n&quot; +&#10;                    &quot;   OO O    OO  O  O   O    O  OO\n&quot; +&#10;                    &quot; O OOO OOO  OO  OO  O O  OO  O  \n&quot; +&#10;                    &quot; O O O O    O     OO O    OO OOO\n&quot; +&#10;                    &quot; O O O    O OOOOO OOOOOOOOO O OO\n&quot; +&#10;                    &quot;O OOOO  O OOO OOOO O  O   OOO O \n&quot; +&#10;                    &quot;O  OO  O  O     O O OOOOOOOOO O \n&quot; +&#10;                    &quot;     OO OO  O OOO   OOOOO OOOOOO\n&quot; +&#10;                    &quot;  O OO        O O    O     OOOO \n&quot; +&#10;                    &quot;OOOO  OO  OO    O O   OO OOOO  O\n&quot; +&#10;                    &quot;   O         O   O   OOOOOO    O\n&quot; +&#10;                    &quot;   OOOOO   OOOOOOO  O O  O OO O \n&quot; +&#10;                    &quot; O O  OOO O O O  OO OO   OO    O\n&quot; +&#10;                    &quot;O    O OOOOO O    OO  OO O  OOO \n&quot; +&#10;                    &quot; OOOOO   O O      O  O  O  OOOOO\n&quot; +&#10;                    &quot;OOO O  OOOO OOO OO  O OO    OO  \n&quot; +&#10;                    &quot;  OOO  OO  OO  O OOO     O O  OO\n&quot; +&#10;                    &quot;OOO  OOOOOOO OOO  OO  O  O   OO \n&quot; +&#10;                    &quot;OO O O    OOO    O O  O OOOO O  \n&quot; +&#10;                    &quot;O O   OO  O     O  O O  O O O   \n&quot; +&#10;                    &quot;OOO       OOOO OOO O    OOOO  OO\n&quot; +&#10;                    &quot;O  OO  OOO     OOOO  O    O  O O\n&quot; +&#10;                    &quot;  O OO  O OO  OOOOO  O   O OOO  \n&quot; +&#10;                    &quot;O    OO O   O   OO O   O O OOOO \n&quot; +&#10;                    &quot; O OOO O OOOOOO O   O O  O  OOO \n&quot; +&#10;                    &quot; OO OOO  O O O  OO OOOOOOOOO  O \n&quot; +&#10;                    &quot; OOO OO  OO O O   OO  OOOO OOO  \n&quot; +&#10;                    &quot; O O O  O OOO O  OO OO   O    OO\n&quot; +&#10;                    &quot;OO O O OOO OO O     OO  O  O O  \n&quot; +&#10;                    &quot; O O O O OO     OOOOO O   O  OOO\n&quot; +&#10;                    &quot;OOOOO     OO   O    O    OO    O\n&quot; +&#10;                    &quot; OOO OO  O   O OO  OO   OO   O  &quot;&#10;            ),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;64 0 512&quot;,&#10;                &quot;                                                        OO      \n&quot; +&#10;                    &quot;                          OO                           O  O   O \n&quot; +&#10;                    &quot;                         O  O                           OO    O \n&quot; +&#10;                    &quot;                          O O                                 O \n&quot; +&#10;                    &quot;             OO            O                                    \n&quot; +&#10;                    &quot;             O O                           O                    \n&quot; +&#10;                    &quot;              O                            O                    \n&quot; +&#10;                    &quot;                                           O                    \n&quot; +&#10;                    &quot;                 OO                                             \n&quot; +&#10;                    &quot;                 OO                    OOO                      \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;       OO                                  O                    \n&quot; +&#10;                    &quot;       OO                                  O                    \n&quot; +&#10;                    &quot;                                           O                    \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                OO              \n&quot; +&#10;                    &quot;                 O                              OO          O   \n&quot; +&#10;                    &quot;                 O                                         O O  \n&quot; +&#10;                    &quot;                 O                                         O  O \n&quot; +&#10;                    &quot;                                                            OO  \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                      OO                        \n&quot; +&#10;                    &quot;                                     O  O                       \n&quot; +&#10;                    &quot;                                      O O                       \n&quot; +&#10;                    &quot;                                       O                        \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                              O                                 \n&quot; +&#10;                    &quot;                             O O                                \n&quot; +&#10;                    &quot;                             OO                                 \n&quot; +&#10;                    &quot;     OOO          O                                             \n&quot; +&#10;                    &quot;                  O                    OO                       \n&quot; +&#10;                    &quot;                  O                    OO                       \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                     O          \n&quot; +&#10;                    &quot;      OO                                            O O         \n&quot; +&#10;                    &quot;      OO                     OO                     O O         \n&quot; +&#10;                    &quot;                            O  O                     O          \n&quot; +&#10;                    &quot;                             OO                                 \n&quot; +&#10;                    &quot;          OO                                                    \n&quot; +&#10;                    &quot;          OO                                                    \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                            O                   \n&quot; +&#10;                    &quot;                                  OO        O                   \n&quot; +&#10;                    &quot;                                  OO    O   O                   \n&quot; +&#10;                    &quot;                       OO               O                       \n&quot; +&#10;                    &quot;                       OO               O                       \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                       OO       \n&quot; +&#10;                    &quot;                                                O      OO       \n&quot; +&#10;                    &quot;                                               O O              \n&quot; +&#10;                    &quot;                                               O O              \n&quot; +&#10;                    &quot;       OO                                       O               \n&quot; +&#10;                    &quot;       OO                                                       \n&quot; +&#10;                    &quot;                                                                \n&quot; +&#10;                    &quot;                                                                &quot;&#10;            )&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/life/Main.java" />
+                                <option name="text" value="package life;&#10;import java.util.*;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        int s = sc.nextInt();&#10;        int n = sc.nextInt();&#10;&#10;        Random random = new Random(n);&#10;&#10;        for (int i = 0; i &lt; s; i++) {&#10;            for (int j = 0; j &lt; s; j++) {&#10;                if(random.nextBoolean()){&#10;                    System.out.print(&quot;O&quot;);&#10;                } else {&#10;                    System.out.print(&quot; &quot;);&#10;                }&#10;                if(j == s - 1){&#10;                    System.out.println(&quot;&quot;);&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/cellLives.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/life/cellLives.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561921503000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;p&gt;Well, now the universe is created, and its laws work properly.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Let’s visualize the evolution. In the previous stage, we could see only one generation. It would be better if each generation was displayed. But our perception is not as fast as a computer’s, so our application should sleep a little after each generation. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&#10;&#10;  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Use methods of the class java.lang.Thread to achieve this goal.&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can do this in two ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;output every generation to the console, one after one&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;clear the console output before next generation appears&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Due to the cross-platform nature of Java, the second way can be complicated. You can use this code to clear the console output.&lt;/p&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;try {&lt;br&gt;    if (System.getProperty(&quot;os.name&quot;).contains(&quot;Windows&quot;))&lt;br&gt;        new ProcessBuilder(&quot;cmd&quot;,&quot;/c&quot;,&quot;cls&quot;).inheritIO().start().waitFor();&lt;br&gt;    else&lt;br&gt;        Runtime.getRuntime().exec(&quot;clear&quot;);&lt;br&gt;} &lt;br&gt;catch (IOException | InterruptedException e) {}&lt;/code&gt;&lt;/pre&gt; &lt;br&gt;&lt;p&gt;&#10;&#10;&#10;&#10;  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Now you define the size of the universe and number of generations yourself. You may pass system time into the constructor of Random object from now on. &lt;/p&gt;&lt;p&gt;The launched application must show evolution in progress.&lt;/p&gt;&lt;h2&gt;&lt;b&gt;Output example&lt;/b&gt;&lt;/h2&gt;&lt;p&gt;&lt;b&gt;&lt;img alt=&quot;&quot; src=&quot;https://ucarecdn.com/a8204501-93b5-4101-a07c-0db609b8a659/&quot;&gt;&lt;/b&gt;&lt;/p&gt;&#10;&#10;  &lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/54/stages/296/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5438" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Life goes by" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/GameOfLifeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/GameOfLifeTest.java" />
+                                <option name="text" value="&#10;import common.GameOfLifeStage3Test;&#10;&#10;public class GameOfLifeTest extends GameOfLifeStage3Test {&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/CheckResultUtil.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/CheckResultUtil.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;operator fun CheckResult.component1(): Boolean = isCorrect&#10;operator fun CheckResult.component2(): String? = feedback&#10;&#10;fun Boolean.toCheckResult() = CheckResult(this, null)&#10;&#10;fun fail(message: String) = CheckResult(false, message)  // TODO: add to repo&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/ClueWithChecker.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/ClueWithChecker.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;&#10;sealed class ClueWithChecker(val input: String) {&#10;    fun toTestCase(): TestCase&lt;ClueWithChecker&gt; {&#10;        return TestCase&lt;ClueWithChecker&gt;().setInput(input).setAttach(this)&#10;    }&#10;}&#10;&#10;class ClueWithPredefinedFeedbackChecker(&#10;        val predefinedFeedback: String,&#10;        input: String,&#10;        val checker: (String) -&gt; Boolean&#10;) : ClueWithChecker(input)&#10;&#10;class ClueWithDynamicFeedbackChecker(&#10;        input: String,&#10;        val checker: (String) -&gt; CheckResult&#10;) : ClueWithChecker(input)&#10;&#10;fun createPredefinedFeedbackTest(&#10;        feedback: String,&#10;        input: String = &quot;&quot;,&#10;        checker: (String) -&gt; Boolean&#10;): TestCase&lt;ClueWithChecker&gt; {&#10;    return ClueWithPredefinedFeedbackChecker(&#10;            predefinedFeedback = feedback,&#10;            input = input,&#10;            checker = checker&#10;    ).toTestCase()&#10;}&#10;&#10;fun createDynamicFeedbackTest(input: String = &quot;&quot;, checker: (String) -&gt; CheckResult): TestCase&lt;ClueWithChecker&gt; {&#10;    return ClueWithDynamicFeedbackChecker(&#10;            input = input,&#10;            checker = checker&#10;    ).toTestCase()&#10;}&#10;&#10;fun checkClueWithCheckerTest(reply: String, clue: ClueWithChecker): CheckResult {&#10;    return try {&#10;        when (clue) {&#10;            is ClueWithDynamicFeedbackChecker -&gt; clue.checker(reply)&#10;            is ClueWithPredefinedFeedbackChecker -&gt; CheckResult(clue.checker(reply), clue.predefinedFeedback)&#10;        }&#10;    } catch (e: AssertionError) {&#10;        if (clue is ClueWithPredefinedFeedbackChecker) {&#10;            fail(clue.predefinedFeedback)&#10;        } else {&#10;            CheckResult.FALSE&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeCommonTest.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeCommonTest.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;fun checkLabelForInteger(labelRequirements: ComponentRequirements&lt;JLabelFixture&gt;): CheckResult {&#10;    val label = labelRequirements.requireExistingComponent()&#10;&#10;    val labelDigits = label.text().trim { !it.isDigit() }&#10;&#10;    if (labelDigits.toIntOrNull() == null) {&#10;        return fail(&quot;The '${labelRequirements.name}' label doesn't contain an integer.&quot;)&#10;    }&#10;&#10;    return CheckResult.TRUE&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeStage3Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeStage3Test.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import life.Main&#10;&#10;abstract class GameOfLifeStage3Test : BaseStageTest&lt;ClueWithChecker&gt;(Main::class.java) {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;        // two times:&#10;        return (1..MAX_SIZE).flatMap(::stage3Tests) + (1..MAX_SIZE).flatMap(::stage3Tests)&#10;    }&#10;&#10;    override fun check(reply: String, clue: ClueWithChecker): CheckResult {&#10;        return checkClueWithCheckerTest(reply = reply, clue = clue)&#10;    }&#10;&#10;    companion object {&#10;        const val MAX_SIZE = 10&#10;    }&#10;}&#10;&#10;fun stage3Tests(universeSize: Int): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createDynamicFeedbackTest(&quot;$universeSize\n&quot;) { reply -&gt;&#10;                @Suppress(&quot;FoldInitializerAndIfToElvis&quot;)&#10;                val generations = reply&#10;                        .toLowerCase()&#10;                        .split(&quot;generation&quot;.toRegex())&#10;                        .drop(1)&#10;                        .map {&#10;                            val lines = it.lines()&#10;                            val (idString, aliveString) = lines&#10;                            val map = lines.drop(2)&#10;&#10;                            if (!map.canBeMap(universeSize)) {&#10;                                return@createDynamicFeedbackTest fail(&quot;Can't read map in:\n$it\n&quot;)&#10;                            }&#10;&#10;                            val id = intRegex.find(idString)?.groupValues?.firstOrNull()?.toInt()&#10;                            if (id == null) {&#10;                                return@createDynamicFeedbackTest fail(&quot;Can't find generation ID:\n$it\n&quot;)&#10;                            }&#10;&#10;                            val alive = intRegex.find(aliveString)?.groupValues?.firstOrNull()?.toInt()&#10;                            if (alive == null) {&#10;                                return@createDynamicFeedbackTest fail(&quot;Can't find alive count:\n$it\n&quot;)&#10;                            }&#10;&#10;                            val generation = Generation(id, alive, map)&#10;                            val aliveOnMap = generation.aliveOnMap(universeSize)&#10;&#10;                            if (aliveOnMap != alive) {&#10;                                return@createDynamicFeedbackTest fail(&#10;                                        &quot;Alive count is wrong ($alive expected, $aliveOnMap got):\n$it\n&quot;&#10;                                )&#10;                            }&#10;&#10;                            return@map generation&#10;                        }&#10;&#10;                if (generations.isEmpty()) {&#10;                    return@createDynamicFeedbackTest fail(&quot;Your program doesn't output generations for size $universeSize&quot;)&#10;                }&#10;&#10;                if (generations.first().id != 1) {&#10;                    return@createDynamicFeedbackTest fail(&quot;First generation has number ${generations.first().id}&quot;)&#10;                }&#10;&#10;                val diffs = generations.windowed(2)&#10;&#10;                diffs.forEach { (prev, next) -&gt;&#10;                    if (prev.id + 1 != next.id) {&#10;                        return@createDynamicFeedbackTest fail(&quot;ID of the generation #${prev.id + 1} is wrong (${next.id})&quot;)&#10;                    }&#10;&#10;                    if (!prev.evolvesTo(next, universeSize)) {&#10;                        return@createDynamicFeedbackTest fail(&quot;Wrong evolution from #${prev.id} to #${prev.id + 1}&quot;)&#10;                    }&#10;                }&#10;&#10;                return@createDynamicFeedbackTest CheckResult.TRUE&#10;            }&#10;    )&#10;}&#10;&#10;val intRegex = &quot;&quot;&quot;(\d)+&quot;&quot;&quot;.toRegex()&#10;&#10;fun List&lt;String&gt;.canBeMap(universeSize: Int): Boolean {&#10;    if (this.size &lt; universeSize) {&#10;        return false&#10;    }&#10;&#10;    return this.take(universeSize).all { it.length &gt;= universeSize }&#10;}&#10;&#10;data class Generation(val id: Int, val alive: Int, val map: List&lt;String&gt;) {&#10;    fun aliveOnMap(universeSize: Int): Int {&#10;        return (0 until universeSize)&#10;                .flatMap { y -&gt; (0 until universeSize).map { x -&gt; x to y } }&#10;                .map { (x, y) -&gt; map[x][y] }&#10;                .count { it.isAlive() }&#10;    }&#10;&#10;    fun evolvesTo(other: Generation, universeSize: Int): Boolean {&#10;        return (0 until universeSize)&#10;                .flatMap { y -&gt; (0 until universeSize).map { x -&gt; x to y } }&#10;                .map { (x, y) -&gt;&#10;                    if (map[x][y].isAlive()) {&#10;                        if (aliveNeighbours(x, y, universeSize) in setOf(2, 3)) {&#10;                            other.map[x][y].isAlive()&#10;                        } else {&#10;                            !other.map[x][y].isAlive()&#10;                        }&#10;                    } else {&#10;                        if (aliveNeighbours(x, y, universeSize) == 3) {&#10;                            other.map[x][y].isAlive()&#10;                        } else {&#10;                            !other.map[x][y].isAlive()&#10;                        }&#10;                    }&#10;                }&#10;                .all { it }&#10;    }&#10;&#10;    fun aliveNeighbours(x: Int, y: Int, universeSize: Int): Int {&#10;        var north = x - 1&#10;        if (north &lt; 0) north = universeSize - 1&#10;        var south = x + 1&#10;        if (south &gt; universeSize - 1) south = 0&#10;        var west = y - 1&#10;        if (west &lt; 0) west = universeSize - 1&#10;        var east = y + 1&#10;        if (east &gt; universeSize - 1) east = 0&#10;&#10;        var aliveNeighbours = 0&#10;        if (map[north][west].isAlive()) ++aliveNeighbours&#10;        if (map[north][y].isAlive()) ++aliveNeighbours&#10;        if (map[north][east].isAlive()) ++aliveNeighbours&#10;        if (map[x][west].isAlive()) ++aliveNeighbours&#10;        if (map[x][east].isAlive()) ++aliveNeighbours&#10;        if (map[south][west].isAlive()) ++aliveNeighbours&#10;        if (map[south][y].isAlive()) ++aliveNeighbours&#10;        if (map[south][east].isAlive()) ++aliveNeighbours&#10;&#10;        return aliveNeighbours&#10;    }&#10;&#10;    fun Char.isAlive(): Boolean = this != ' '&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/UiTestsGenerators.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/UiTestsGenerators.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.AbstractJComponentFixture&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import javax.swing.JFrame&#10;&#10;fun frameTests(frameGetter: () -&gt; JFrame): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createDynamicFeedbackTest(&quot;Window is not visible&quot;) { frameGetter().isVisible.toCheckResult() },&#10;            createDynamicFeedbackTest(&quot;Window title is empty&quot;) { frameGetter().title.isNotEmpty().toCheckResult() }&#10;    )&#10;}&#10;&#10;class ComponentRequirements&lt;ComponentType : AbstractJComponentFixture&lt;*, *, *&gt;&gt;(&#10;        val name: String,&#10;        val isEnabled: Boolean,&#10;        private val componentFinder: (String) -&gt; ComponentType?&#10;) {&#10;    val suitableComponent: ComponentType? by lazy { componentFinder(name) }&#10;}&#10;&#10;fun existenceTests(vararg components: ComponentRequirements&lt;*&gt;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    fun generateExistenceTest(requirements: ComponentRequirements&lt;*&gt;): TestCase&lt;ClueWithChecker&gt; {&#10;        return createPredefinedFeedbackTest(&quot;No suitable component with name '${requirements.name}' is found&quot;) {&#10;            SwingTest.checkExistence { requirements.suitableComponent }&#10;        }&#10;    }&#10;&#10;    return components.map(::generateExistenceTest)&#10;}&#10;&#10;fun componentsAreEnabledTests(vararg components: ComponentRequirements&lt;*&gt;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    fun generateIsEnabledTest(requirements: ComponentRequirements&lt;*&gt;): TestCase&lt;ClueWithChecker&gt; {&#10;        val (desiredState, stateChecker) = if (requirements.isEnabled) {&#10;            &quot;enabled&quot; to { requirements.requireExistingComponent().isEnabled }&#10;        } else {&#10;            &quot;disabled&quot; to { !requirements.requireExistingComponent().isEnabled }&#10;        }&#10;&#10;        return createPredefinedFeedbackTest(&quot;The '${requirements.name}' component should be $desiredState&quot;) {&#10;            stateChecker()&#10;        }&#10;&#10;    }&#10;&#10;    return components.map(::generateIsEnabledTest)&#10;}&#10;&#10;fun &lt;ComponentType : AbstractJComponentFixture&lt;*, *, *&gt;&gt;&#10;        ComponentRequirements&lt;ComponentType&gt;.requireExistingComponent(): ComponentType {&#10;    return requireNotNull(this.suitableComponent) {&#10;        &quot;Must check for the '${this.name}' component existence before this test&quot;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/life/Main.java" />
+                                <option name="text" value="package life;&#10;import java.util.*;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        int s = sc.nextInt();&#10;        int n = sc.nextInt();&#10;&#10;        Random random = new Random(n);&#10;&#10;        for (int i = 0; i &lt; s; i++) {&#10;            for (int j = 0; j &lt; s; j++) {&#10;                if(random.nextBoolean()){&#10;                    System.out.print(&quot;O&quot;);&#10;                } else {&#10;                    System.out.print(&quot; &quot;);&#10;                }&#10;                if(j == s - 1){&#10;                    System.out.println(&quot;&quot;);&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561921504000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;&lt;b&gt;&lt;/b&gt;Description&lt;/h2&gt;&lt;p&gt;Now you are ready to put aside the console and make your application look like this: &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;358&quot; src=&quot;https://ucarecdn.com/95bf7d6c-cf3f-48c5-b9d1-8e4cb5feb6f8/&quot; width=&quot;321&quot;&gt;&lt;/p&gt;&lt;p&gt;&#10;&#10;  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Just create a window that displays the field of the game and counters (current generation and number of alive cells). For displaying the field, you can use methods that draw lines and fill rectangles. For counters, use simple text labels.&lt;br&gt;&lt;br&gt;It may look like you need to make a different application, but if you’re using the MVC pattern, you can add one or two classes to your code.&lt;br&gt;&lt;br&gt;The application should start and begin to update its look with every new generation in the game. For this stage no any interaction with the user is necessary.&lt;br&gt;&#10;&#10;&#10;&#10;&#10;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/54/stages/298/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5440" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Looking good!" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/life/ApplicationRunner.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/ApplicationRunner.java" />
+                                <option name="text" value="package life;&#10;&#10;public class ApplicationRunner {&#10;    public static void main(String[] args) {&#10;        new GameOfLife();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/GameOfLife.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/GameOfLife.java" />
+                                <option name="text" value="package life;&#10;&#10;import javax.swing.*;&#10;&#10;public class GameOfLife extends JFrame {&#10;    public GameOfLife() {&#10;        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;        setSize(300, 300);&#10;        setVisible(true);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/GameOfLifeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/GameOfLifeTest.java" />
+                                <option name="text" value="&#10;import common.GameOfLifeStage4Test;&#10;&#10;public class GameOfLifeTest extends GameOfLifeStage4Test {&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/CheckResultUtil.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/CheckResultUtil.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;operator fun CheckResult.component1(): Boolean = isCorrect&#10;operator fun CheckResult.component2(): String? = feedback&#10;&#10;fun Boolean.toCheckResult() = CheckResult(this, null)&#10;&#10;fun fail(message: String) = CheckResult(false, message)  // TODO: add to repo&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/ClueWithChecker.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/ClueWithChecker.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;&#10;sealed class ClueWithChecker(val input: String) {&#10;    fun toTestCase(): TestCase&lt;ClueWithChecker&gt; {&#10;        return TestCase&lt;ClueWithChecker&gt;().setInput(input).setAttach(this)&#10;    }&#10;}&#10;&#10;class ClueWithPredefinedFeedbackChecker(&#10;        val predefinedFeedback: String,&#10;        input: String,&#10;        val checker: (String) -&gt; Boolean&#10;) : ClueWithChecker(input)&#10;&#10;class ClueWithDynamicFeedbackChecker(&#10;        input: String,&#10;        val checker: (String) -&gt; CheckResult&#10;) : ClueWithChecker(input)&#10;&#10;fun createPredefinedFeedbackTest(&#10;        feedback: String,&#10;        input: String = &quot;&quot;,&#10;        checker: (String) -&gt; Boolean&#10;): TestCase&lt;ClueWithChecker&gt; {&#10;    return ClueWithPredefinedFeedbackChecker(&#10;            predefinedFeedback = feedback,&#10;            input = input,&#10;            checker = checker&#10;    ).toTestCase()&#10;}&#10;&#10;fun createDynamicFeedbackTest(input: String = &quot;&quot;, checker: (String) -&gt; CheckResult): TestCase&lt;ClueWithChecker&gt; {&#10;    return ClueWithDynamicFeedbackChecker(&#10;            input = input,&#10;            checker = checker&#10;    ).toTestCase()&#10;}&#10;&#10;fun checkClueWithCheckerTest(reply: String, clue: ClueWithChecker): CheckResult {&#10;    return try {&#10;        when (clue) {&#10;            is ClueWithDynamicFeedbackChecker -&gt; clue.checker(reply)&#10;            is ClueWithPredefinedFeedbackChecker -&gt; CheckResult(clue.checker(reply), clue.predefinedFeedback)&#10;        }&#10;    } catch (e: AssertionError) {&#10;        if (clue is ClueWithPredefinedFeedbackChecker) {&#10;            fail(clue.predefinedFeedback)&#10;        } else {&#10;            CheckResult.FALSE&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeCommonTest.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeCommonTest.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;fun checkLabelForInteger(labelRequirements: ComponentRequirements&lt;JLabelFixture&gt;): CheckResult {&#10;    val label = labelRequirements.requireExistingComponent()&#10;&#10;    val labelDigits = label.text().trim { !it.isDigit() }&#10;&#10;    if (labelDigits.toIntOrNull() == null) {&#10;        return fail(&quot;The '${labelRequirements.name}' label doesn't contain an integer.&quot;)&#10;    }&#10;&#10;    return CheckResult.TRUE&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeStage4Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeStage4Test.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import life.GameOfLife&#10;&#10;abstract class GameOfLifeStage4Test : SwingTest&lt;ClueWithChecker&gt;(GameOfLife()) {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;        val generationLabel = ComponentRequirements(&quot;GenerationLabel&quot;, isEnabled = true) { window.label(it) }&#10;        val aliveLabel = ComponentRequirements(&quot;AliveLabel&quot;, isEnabled = true) { window.label(it) }&#10;&#10;        return frameTests(::frame) +&#10;                existenceTests(generationLabel, aliveLabel) +&#10;                componentsAreEnabledTests(generationLabel, aliveLabel) +&#10;                stage4Tests(&#10;                        generationLabelRequirements = generationLabel,&#10;                        aliveLabelRequirements = aliveLabel&#10;                )&#10;    }&#10;&#10;    override fun check(reply: String, clue: ClueWithChecker): CheckResult {&#10;        return checkClueWithCheckerTest(reply = reply, clue = clue)&#10;    }&#10;}&#10;&#10;fun stage4Tests(&#10;        generationLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;,&#10;        aliveLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;&#10;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createDynamicFeedbackTest {&#10;                with(checkLabelForInteger(generationLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;                with(checkLabelForInteger(aliveLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;&#10;                return@createDynamicFeedbackTest CheckResult.TRUE&#10;            }&#10;    )&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeStage5Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeStage5Test.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JButtonFixture&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.assertj.swing.fixture.JToggleButtonFixture&#10;import org.hyperskill.hstest.v5.common.Utils&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import life.GameOfLife&#10;&#10;abstract class GameOfLifeStage5Test : SwingTest&lt;ClueWithChecker&gt;(GameOfLife()) {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;        val generationLabel = ComponentRequirements(&quot;GenerationLabel&quot;, isEnabled = true) { window.label(it) }&#10;        val aliveLabel = ComponentRequirements(&quot;AliveLabel&quot;, isEnabled = true) { window.label(it) }&#10;&#10;        val playButton = ComponentRequirements(&quot;PlayToggleButton&quot;, isEnabled = true) { window.toggleButton(it) }&#10;        val resetButton = ComponentRequirements(&quot;ResetButton&quot;, isEnabled = true) { window.button(it) }&#10;&#10;        return frameTests(::frame) +&#10;                existenceTests(generationLabel, aliveLabel, playButton, resetButton) +&#10;                componentsAreEnabledTests(generationLabel, aliveLabel, playButton, resetButton) +&#10;                stage5Tests(&#10;                        generationLabelRequirements = generationLabel,&#10;                        aliveLabelRequirements = aliveLabel,&#10;                        playButtonRequirements = playButton,&#10;                        resetButtonRequirements = resetButton&#10;                )&#10;    }&#10;&#10;    override fun check(reply: String, clue: ClueWithChecker): CheckResult {&#10;        return checkClueWithCheckerTest(reply = reply, clue = clue)&#10;    }&#10;}&#10;&#10;fun stage5Tests(&#10;        generationLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;,&#10;        aliveLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;,&#10;        playButtonRequirements: ComponentRequirements&lt;JToggleButtonFixture&gt;,&#10;        resetButtonRequirements: ComponentRequirements&lt;JButtonFixture&gt;&#10;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createPredefinedFeedbackTest(&quot;App crashes when reset is clicked&quot;) {&#10;                val resetButton = resetButtonRequirements.requireExistingComponent()&#10;&#10;                resetButton.click()&#10;&#10;                return@createPredefinedFeedbackTest true&#10;            },&#10;&#10;            createDynamicFeedbackTest {&#10;                /*&#10;                Flip-flop play button, check labels, reset, flip-flop again, check again&#10;                */&#10;&#10;                val playButton = playButtonRequirements.requireExistingComponent()&#10;&#10;                playButton.check()&#10;                Utils.sleep(100)&#10;                playButton.uncheck()&#10;&#10;                with(checkLabelForInteger(generationLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;                with(checkLabelForInteger(aliveLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;&#10;                val resetButton = resetButtonRequirements.requireExistingComponent()&#10;                resetButton.click()&#10;&#10;                Utils.sleep(100)&#10;&#10;                playButton.check()&#10;                Utils.sleep(100)&#10;                playButton.uncheck()&#10;&#10;                with(checkLabelForInteger(generationLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;                with(checkLabelForInteger(aliveLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;&#10;                return@createDynamicFeedbackTest CheckResult.TRUE&#10;            }&#10;    )&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/UiTestsGenerators.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/UiTestsGenerators.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.AbstractJComponentFixture&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import javax.swing.JFrame&#10;&#10;fun frameTests(frameGetter: () -&gt; JFrame): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createPredefinedFeedbackTest(&quot;Window is not visible&quot;) { frameGetter().isVisible },&#10;            createPredefinedFeedbackTest(&quot;Window title is empty&quot;) { frameGetter().title.isNotEmpty() }&#10;    )&#10;}&#10;&#10;class ComponentRequirements&lt;ComponentType : AbstractJComponentFixture&lt;*, *, *&gt;&gt;(&#10;        val name: String,&#10;        val isEnabled: Boolean,&#10;        private val componentFinder: (String) -&gt; ComponentType?&#10;) {&#10;    val suitableComponent: ComponentType? by lazy { componentFinder(name) }&#10;}&#10;&#10;fun existenceTests(vararg components: ComponentRequirements&lt;*&gt;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    fun generateExistenceTest(requirements: ComponentRequirements&lt;*&gt;): TestCase&lt;ClueWithChecker&gt; {&#10;        return createPredefinedFeedbackTest(&quot;No suitable component with name '${requirements.name}' is found&quot;) {&#10;            SwingTest.checkExistence { requirements.suitableComponent }&#10;        }&#10;    }&#10;&#10;    return components.map(::generateExistenceTest)&#10;}&#10;&#10;fun componentsAreEnabledTests(vararg components: ComponentRequirements&lt;*&gt;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    fun generateIsEnabledTest(requirements: ComponentRequirements&lt;*&gt;): TestCase&lt;ClueWithChecker&gt; {&#10;        val (desiredState, stateChecker) = if (requirements.isEnabled) {&#10;            &quot;enabled&quot; to { requirements.requireExistingComponent().isEnabled }&#10;        } else {&#10;            &quot;disabled&quot; to { !requirements.requireExistingComponent().isEnabled }&#10;        }&#10;&#10;        return createPredefinedFeedbackTest(&quot;The '${requirements.name}' component should be $desiredState&quot;) {&#10;            stateChecker()&#10;        }&#10;&#10;    }&#10;&#10;    return components.map(::generateIsEnabledTest)&#10;}&#10;&#10;fun &lt;ComponentType : AbstractJComponentFixture&lt;*, *, *&gt;&gt;&#10;        ComponentRequirements&lt;ComponentType&gt;.requireExistingComponent(): ComponentType {&#10;    return requireNotNull(this.suitableComponent) {&#10;        &quot;Must check for the '${this.name}' component existence before this test&quot;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/Main.java" />
+                                <option name="text" value="package life;&#10;import java.util.*;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        int s = sc.nextInt();&#10;        int n = sc.nextInt();&#10;&#10;        Random random = new Random(n);&#10;&#10;        for (int i = 0; i &lt; s; i++) {&#10;            for (int j = 0; j &lt; s; j++) {&#10;                if(random.nextBoolean()){&#10;                    System.out.print(&quot;O&quot;);&#10;                } else {&#10;                    System.out.print(&quot; &quot;);&#10;                }&#10;                if(j == s - 1){&#10;                    System.out.println(&quot;&quot;);&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561921505000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2&gt;Description&lt;/h2&gt;&lt;p&gt;As we did in the previous stage, we are going to make application interactive. Just add two buttons: one should toggle pause/resume, another should start evolution over again, with a different initial state. &lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;452&quot; src=&quot;https://ucarecdn.com/c88c80b6-afb1-4ef7-9aab-7b300ff8e940/&quot; width=&quot;560&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&#10;&#10;  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;After this you will have an application that provides a comfortable experience of the Game of Life. Optionally you can add more features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;increasing/decreasing evolution speed (use buttons or JSlider)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;color of cells (use JColorChooser or JComboBox)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;setting size of the new field (use JTextField or JDialog)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;save/load (use JFileChooser)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;and so on.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/54/stages/299/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5441" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Gamify it" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/life/ApplicationRunner.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/ApplicationRunner.java" />
+                                <option name="text" value="package life;&#10;&#10;public class ApplicationRunner {&#10;    public static void main(String[] args) {&#10;        new GameOfLife();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/GameOfLife.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/GameOfLife.java" />
+                                <option name="text" value="package life;&#10;&#10;import javax.swing.*;&#10;&#10;public class GameOfLife extends JFrame {&#10;    public GameOfLife() {&#10;        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;        setSize(300, 300);&#10;        setVisible(true);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/GameOfLifeTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/GameOfLifeTest.java" />
+                                <option name="text" value="&#10;import common.GameOfLifeStage5Test;&#10;&#10;public class GameOfLifeTest extends GameOfLifeStage5Test {&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/CheckResultUtil.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/CheckResultUtil.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;operator fun CheckResult.component1(): Boolean = isCorrect&#10;operator fun CheckResult.component2(): String? = feedback&#10;&#10;fun Boolean.toCheckResult() = CheckResult(this, null)&#10;&#10;fun fail(message: String) = CheckResult(false, message)  // TODO: add to repo&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/ClueWithChecker.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/ClueWithChecker.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;&#10;sealed class ClueWithChecker(val input: String) {&#10;    fun toTestCase(): TestCase&lt;ClueWithChecker&gt; {&#10;        return TestCase&lt;ClueWithChecker&gt;().setInput(input).setAttach(this)&#10;    }&#10;}&#10;&#10;class ClueWithPredefinedFeedbackChecker(&#10;        val predefinedFeedback: String,&#10;        input: String,&#10;        val checker: (String) -&gt; Boolean&#10;) : ClueWithChecker(input)&#10;&#10;class ClueWithDynamicFeedbackChecker(&#10;        input: String,&#10;        val checker: (String) -&gt; CheckResult&#10;) : ClueWithChecker(input)&#10;&#10;fun createPredefinedFeedbackTest(&#10;        feedback: String,&#10;        input: String = &quot;&quot;,&#10;        checker: (String) -&gt; Boolean&#10;): TestCase&lt;ClueWithChecker&gt; {&#10;    return ClueWithPredefinedFeedbackChecker(&#10;            predefinedFeedback = feedback,&#10;            input = input,&#10;            checker = checker&#10;    ).toTestCase()&#10;}&#10;&#10;fun createDynamicFeedbackTest(input: String = &quot;&quot;, checker: (String) -&gt; CheckResult): TestCase&lt;ClueWithChecker&gt; {&#10;    return ClueWithDynamicFeedbackChecker(&#10;            input = input,&#10;            checker = checker&#10;    ).toTestCase()&#10;}&#10;&#10;fun checkClueWithCheckerTest(reply: String, clue: ClueWithChecker): CheckResult {&#10;    return try {&#10;        when (clue) {&#10;            is ClueWithDynamicFeedbackChecker -&gt; clue.checker(reply)&#10;            is ClueWithPredefinedFeedbackChecker -&gt; CheckResult(clue.checker(reply), clue.predefinedFeedback)&#10;        }&#10;    } catch (e: AssertionError) {&#10;        if (clue is ClueWithPredefinedFeedbackChecker) {&#10;            fail(clue.predefinedFeedback)&#10;        } else {&#10;            CheckResult.FALSE&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeCommonTest.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeCommonTest.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;&#10;fun checkLabelForInteger(labelRequirements: ComponentRequirements&lt;JLabelFixture&gt;): CheckResult {&#10;    val label = labelRequirements.requireExistingComponent()&#10;&#10;    val labelDigits = label.text().trim { !it.isDigit() }&#10;&#10;    if (labelDigits.toIntOrNull() == null) {&#10;        return fail(&quot;The '${labelRequirements.name}' label doesn't contain an integer.&quot;)&#10;    }&#10;&#10;    return CheckResult.TRUE&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeStage4Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeStage4Test.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import life.GameOfLife&#10;&#10;abstract class GameOfLifeStage4Test : SwingTest&lt;ClueWithChecker&gt;(GameOfLife()) {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;        val generationLabel = ComponentRequirements(&quot;GenerationLabel&quot;, isEnabled = true) { window.label(it) }&#10;        val aliveLabel = ComponentRequirements(&quot;AliveLabel&quot;, isEnabled = true) { window.label(it) }&#10;&#10;        return frameTests(::frame) +&#10;                existenceTests(generationLabel, aliveLabel) +&#10;                componentsAreEnabledTests(generationLabel, aliveLabel) +&#10;                stage4Tests(&#10;                        generationLabelRequirements = generationLabel,&#10;                        aliveLabelRequirements = aliveLabel&#10;                )&#10;    }&#10;&#10;    override fun check(reply: String, clue: ClueWithChecker): CheckResult {&#10;        return checkClueWithCheckerTest(reply = reply, clue = clue)&#10;    }&#10;}&#10;&#10;fun stage4Tests(&#10;        generationLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;,&#10;        aliveLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;&#10;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createDynamicFeedbackTest {&#10;                with(checkLabelForInteger(generationLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;                with(checkLabelForInteger(aliveLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;&#10;                return@createDynamicFeedbackTest CheckResult.TRUE&#10;            }&#10;    )&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/GameOfLifeStage5Test.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/GameOfLifeStage5Test.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.JButtonFixture&#10;import org.assertj.swing.fixture.JLabelFixture&#10;import org.assertj.swing.fixture.JToggleButtonFixture&#10;import org.hyperskill.hstest.v5.common.Utils&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.CheckResult&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import life.GameOfLife&#10;&#10;abstract class GameOfLifeStage5Test : SwingTest&lt;ClueWithChecker&gt;(GameOfLife()) {&#10;&#10;    override fun generate(): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;        val generationLabel = ComponentRequirements(&quot;GenerationLabel&quot;, isEnabled = true) { window.label(it) }&#10;        val aliveLabel = ComponentRequirements(&quot;AliveLabel&quot;, isEnabled = true) { window.label(it) }&#10;&#10;        val playButton = ComponentRequirements(&quot;PlayToggleButton&quot;, isEnabled = true) { window.toggleButton(it) }&#10;        val resetButton = ComponentRequirements(&quot;ResetButton&quot;, isEnabled = true) { window.button(it) }&#10;&#10;        return frameTests(::frame) +&#10;                existenceTests(generationLabel, aliveLabel, playButton, resetButton) +&#10;                componentsAreEnabledTests(generationLabel, aliveLabel, playButton, resetButton) +&#10;                stage5Tests(&#10;                        generationLabelRequirements = generationLabel,&#10;                        aliveLabelRequirements = aliveLabel,&#10;                        playButtonRequirements = playButton,&#10;                        resetButtonRequirements = resetButton&#10;                )&#10;    }&#10;&#10;    override fun check(reply: String, clue: ClueWithChecker): CheckResult {&#10;        return checkClueWithCheckerTest(reply = reply, clue = clue)&#10;    }&#10;}&#10;&#10;fun stage5Tests(&#10;        generationLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;,&#10;        aliveLabelRequirements: ComponentRequirements&lt;JLabelFixture&gt;,&#10;        playButtonRequirements: ComponentRequirements&lt;JToggleButtonFixture&gt;,&#10;        resetButtonRequirements: ComponentRequirements&lt;JButtonFixture&gt;&#10;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createPredefinedFeedbackTest(&quot;App crashes when reset is clicked&quot;) {&#10;                val resetButton = resetButtonRequirements.requireExistingComponent()&#10;&#10;                resetButton.click()&#10;&#10;                return@createPredefinedFeedbackTest true&#10;            },&#10;&#10;            createDynamicFeedbackTest {&#10;                /*&#10;                Flip-flop play button, check labels, reset, flip-flop again, check again&#10;                */&#10;&#10;                val playButton = playButtonRequirements.requireExistingComponent()&#10;&#10;                playButton.check()&#10;                Utils.sleep(100)&#10;                playButton.uncheck()&#10;&#10;                with(checkLabelForInteger(generationLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;                with(checkLabelForInteger(aliveLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;&#10;                val resetButton = resetButtonRequirements.requireExistingComponent()&#10;                resetButton.click()&#10;&#10;                Utils.sleep(100)&#10;&#10;                playButton.check()&#10;                Utils.sleep(100)&#10;                playButton.uncheck()&#10;&#10;                with(checkLabelForInteger(generationLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;                with(checkLabelForInteger(aliveLabelRequirements)) {&#10;                    if (!this.isCorrect) {&#10;                        return@createDynamicFeedbackTest this&#10;                    }&#10;                }&#10;&#10;                return@createDynamicFeedbackTest CheckResult.TRUE&#10;            }&#10;    )&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/common/UiTestsGenerators.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/common/UiTestsGenerators.kt" />
+                                <option name="text" value="package common&#10;&#10;&#10;import org.assertj.swing.fixture.AbstractJComponentFixture&#10;import org.hyperskill.hstest.v5.stage.SwingTest&#10;import org.hyperskill.hstest.v5.testcase.TestCase&#10;import javax.swing.JFrame&#10;&#10;fun frameTests(frameGetter: () -&gt; JFrame): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    return listOf(&#10;            createPredefinedFeedbackTest(&quot;Window is not visible&quot;) { frameGetter().isVisible },&#10;            createPredefinedFeedbackTest(&quot;Window title is empty&quot;) { frameGetter().title.isNotEmpty() }    )&#10;}&#10;&#10;class ComponentRequirements&lt;ComponentType : AbstractJComponentFixture&lt;*, *, *&gt;&gt;(&#10;        val name: String,&#10;        val isEnabled: Boolean,&#10;        private val componentFinder: (String) -&gt; ComponentType?&#10;) {&#10;    val suitableComponent: ComponentType? by lazy { componentFinder(name) }&#10;}&#10;&#10;fun existenceTests(vararg components: ComponentRequirements&lt;*&gt;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    fun generateExistenceTest(requirements: ComponentRequirements&lt;*&gt;): TestCase&lt;ClueWithChecker&gt; {&#10;        return createPredefinedFeedbackTest(&quot;No suitable component with name '${requirements.name}' is found&quot;) {&#10;            SwingTest.checkExistence { requirements.suitableComponent }&#10;        }&#10;    }&#10;&#10;    return components.map(::generateExistenceTest)&#10;}&#10;&#10;fun componentsAreEnabledTests(vararg components: ComponentRequirements&lt;*&gt;): List&lt;TestCase&lt;ClueWithChecker&gt;&gt; {&#10;    fun generateIsEnabledTest(requirements: ComponentRequirements&lt;*&gt;): TestCase&lt;ClueWithChecker&gt; {&#10;        val (desiredState, stateChecker) = if (requirements.isEnabled) {&#10;            &quot;enabled&quot; to { requirements.requireExistingComponent().isEnabled }&#10;        } else {&#10;            &quot;disabled&quot; to { !requirements.requireExistingComponent().isEnabled }&#10;        }&#10;&#10;        return createPredefinedFeedbackTest(&quot;The '${requirements.name}' component should be $desiredState&quot;) {&#10;            stateChecker()&#10;        }&#10;&#10;    }&#10;&#10;    return components.map(::generateIsEnabledTest)&#10;}&#10;&#10;fun &lt;ComponentType : AbstractJComponentFixture&lt;*, *, *&gt;&gt;&#10;        ComponentRequirements&lt;ComponentType&gt;.requireExistingComponent(): ComponentType {&#10;    return requireNotNull(this.suitableComponent) {&#10;        &quot;Must check for the '${this.name}' component existence before this test&quot;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/life/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/life/Main.java" />
+                                <option name="text" value="package life;&#10;import java.util.*;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        int s = sc.nextInt();&#10;        int n = sc.nextInt();&#10;&#10;        Random random = new Random(n);&#10;&#10;        for (int i = 0; i &lt; s; i++) {&#10;            for (int j = 0; j &lt; s; j++) {&#10;                if(random.nextBoolean()){&#10;                    System.out.print(&quot;O&quot;);&#10;                } else {&#10;                    System.out.print(&quot; &quot;);&#10;                }&#10;                if(j == s - 1){&#10;                    System.out.println(&quot;&quot;);&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561921507000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
